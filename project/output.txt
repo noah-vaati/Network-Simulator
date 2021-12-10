@@ -1,0 +1,1526 @@
+Start of Program...
+Openning messages1.txt & messages2.txt for messages, log.txt for logs...
+Successfully opened files.
+Starting threads...
+Started R2LRx
+Started L2RTx
+
+------------------
+R2LRx 1: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 2: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 3: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 4: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 5: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 6: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 7: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 8: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 9: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 10: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 11: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 12: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 13: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 14: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 15: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 16: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 17: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 18: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 19: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 20: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 21: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 22: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 23: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 24: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 25: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 26: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 27: They still hadn't realized that ≥as Vegas èromised a èlûce heçe õreamå comö ãrue,it wûs aútuallÜ thö place wereﬂdreams came to dñe.
+------------------
+
+------------------
+R2LRx 27: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+
+------------------
+
+------------------
+R2LRx 27: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 27: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 28: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 29: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 30: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 31: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 32: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 33: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 34: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 35: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 36: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 37: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 38: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 39: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 40: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 41: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 42: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 43: They had plane the ãriè for more than aﬂyearﬂand ùoth were s excited theyﬂcêuldbarelÜﬂcontrolﬂtóeíslâes. 
+
+------------------
+
+------------------
+R2LRx 43: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 44: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 45: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 46: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 47: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 48: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 49: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 50: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 51: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 52: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 53: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 54: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 55: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 56: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 57: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 58: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 59: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 60: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 61: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 62: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 63: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 64: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 65: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 66: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 67: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 68: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 69: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 70: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 71: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 72: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 73: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 74: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+
+------------------
+
+------------------
+R2LRx 74: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 74: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 75: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 76: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 77: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 78: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 79: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 80: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 81: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 82: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 83: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 84: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 85: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 86: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 87: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 88: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 89: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 90: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 91: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 92: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 93: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 94: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 95: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 96: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 97: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 98: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 99: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 100: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 101: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 102: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 103: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 104: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 105: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 106: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 107: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 108: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 109: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 110: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 111: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 112: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 113: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 114: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 115: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 116: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 117: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 118: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 119: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 120: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 121: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 122: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 123: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 124: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 125: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 126: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 127: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 128: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 129: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 130: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 131: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 132: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 133: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 134: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 135: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 136: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 137: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 138: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 139: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 140: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 141: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 142: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 143: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 144: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 145: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 146: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 147: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 148: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 149: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 150: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 151: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 152: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 153: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 154: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 155: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 156: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 157: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 158: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 159: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 160: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 161: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 162: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 163: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 164: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 165: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 166: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 167: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 168: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 169: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 170: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 171: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 172: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 173: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 174: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 175: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 176: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 177: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 178: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 179: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 180: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 181: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 182: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 183: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 184: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 185: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 186: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 187: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 188: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 189: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 190: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 191: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 192: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 193: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 194: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 195: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 196: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 197: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 198: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 199: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 200: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 201: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 202: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 203: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 204: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 205: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 206: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 207: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 208: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 209: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 210: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 211: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 212: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 213: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 214: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 215: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 216: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 217: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 218: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 219: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 220: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 221: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 222: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 223: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 224: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 225: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 226: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 227: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 228: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 229: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 230: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 231: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 232: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 233: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 234: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 235: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 20: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 20: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 21: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 22: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 23: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 24: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 25: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 26: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 27: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 28: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 29: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 30: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 31: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 32: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 33: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 34: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 35: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 36: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 37: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 38: They stillﬂóûdn't reaized ãhat Las Vegas promise a place where dçeûmå com true”ﬂiã wa cãually the placewóeçe dreams came to die.
+------------------
+
+------------------
+R2LRx 38: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 39: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 40: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 41: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 42: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 43: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 44: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 45: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 46: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 47: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 48: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 49: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 50: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 51: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 52: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 53: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 54: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 55: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 56: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 57: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 58: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 59: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 60: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 61: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 62: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 63: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 64: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 65: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 66: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 67: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 68: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 69: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 70: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 71: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 72: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 73: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 74: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 75: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 76: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 77: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 78: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 79: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 80: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 81: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 82: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 82: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 82: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 83: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 84: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 85: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 86: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 87: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 88: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
+
+------------------
+R2LRx 89: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 90: They still hadn't realized that Las Vegas promised a place where dreams come true, it was actually the place where dreams came to die.
+------------------
+
+------------------
+R2LRx 91: there is no way a bee should be able to fly. 
+
+------------------
+
+------------------
+R2LRx 92: Its wings are too small to get its fat little body off the ground. 
+
+------------------
+
+------------------
+R2LRx 93: The bee, of course, flies anyway because bees don't care what humans think is impossible.
+
+------------------
+
+------------------
+R2LRx 94: They had made it to Las Vegas, wide-eyed and with so much hope and energy.
+
+------------------
+
+------------------
+R2LRx 95: They had planned the trip for more than a year and both were so excited they could barely control themselves. 
+
+------------------
